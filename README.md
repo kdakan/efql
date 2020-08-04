@@ -3,12 +3,14 @@ How to build a generic data querying library (efql) on top of Entity Framework C
 
 (Work in progress, soon will be adding a tutorial and the code)
 
-## Func<>, Lambda expressions, and Lambda expression tree basics
-## Manually building some example filter and field selection queries with Linq
-## Visualizing Lambda expression trees using LinqPad
-## Manually building Lambda expression trees for some example queries 
-## Designing the programmatic library interface and the Rest API to access the library
-## Parsing filter operators
-## Generating Lambda expression trees for filter operators
-## Parsing field selections
-## Generating Lambda expression trees for field selections
+## 1. Exploring the generic data querying library (efql) we will be building
+## 2. Func<>, Expression<Func<>> (Lambda expressions), and expression tree basics
+## 3. Manually building some example filter and field selection queries with Linq
+## 4. Visualizing and exploring Lambda expression trees using LinqPad
+## 5. Manually building Lambda expression trees for some example filter and field selection queries 
+## 6. Designing the programmatic library interface and the Rest API to access the library
+## 7. Parsing filter operators
+## 8. Generating Lambda expression trees for filter operators
+## 9. Parsing field selections
+## 10. Generating Lambda expression trees for field selections
+## 11. Adding paging
