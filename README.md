@@ -13,4 +13,4 @@ How to build a generic data querying library (efql) on top of Entity Framework C
 ## 8. Generating Lambda expression trees for filter operators
 ## 9. Parsing field selections
 ## 10. Generating Lambda expression trees for field selections
-## 11. Adding paging
+## 11. Adding paging and support for logical deletes
