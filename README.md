@@ -1,4 +1,4 @@
-# efql
+# EFQL - A generic data querying library that works nicely with Entity Framework Core
 How to build a generic data querying library (efql) on top of Entity Framework Core, with similar functionality to GraphQL (including nested field/collection selection and nested filtering), but without implementing a GraphQL backend.
 
 (Work in progress, soon will be adding a tutorial and the code)
